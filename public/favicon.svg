@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- neo-brutalism 硬投影底 -->
+  <rect x="6" y="8" width="56" height="56" rx="14" fill="#000"/>
+  <!-- 纸面 -->
+  <rect x="2" y="2" width="56" height="56" rx="14" fill="#fffcf5" stroke="#000" stroke-width="4"/>
+  <!-- 2x2 工作台方块 -->
+  <rect x="13" y="13" width="15" height="15" rx="4" fill="#ffe89b" stroke="#000" stroke-width="3"/>
+  <rect x="32" y="13" width="15" height="15" rx="4" fill="#b9f0c4" stroke="#000" stroke-width="3"/>
+  <rect x="13" y="32" width="15" height="15" rx="4" fill="#ffd6e8" stroke="#000" stroke-width="3"/>
+  <rect x="32" y="32" width="15" height="15" rx="4" fill="#bfe0ff" stroke="#000" stroke-width="3"/>
+</svg>
